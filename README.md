@@ -72,8 +72,6 @@ I care more about AI systems that stay reliable at **3 a.m.** than models that o
 <hr/>
 
 ## 📌 Featured Projects (recommended to link)
-> Add 2–4 pinned repos on your GitHub profile and link them here.
-
 - **AI Agent: PDF Extraction + Validation** (OpenAI API + Pydantic + Python)  
 - **Smart Expense Tracker API** (FastAPI + PostgreSQL + Hugging Face)  
 - **Multi-PDF Search / Chatbot** (RAG + FAISS + Streamlit)  
